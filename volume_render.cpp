@@ -1,23 +1,5 @@
 /* -------------------------------------------------------- */
 /* -------------------------------------------------------- */
-/*
-
-TP OpenGL - Image Synthesis course
-
-George Drettakis, Adrien Bousseau
-
-mailto: FirstName.LastName@inria.fr
-
-REVES / INRIA
-
-
-Documentation:
-- OpenGL tutorial, provides detailed instructions but relies on a different representation of matrices and 3D models
-http://www.opengl-tutorial.org/beginners-tutorials/
-- GLSL reference
-https://www.opengl.org/documentation/glsl/
-  
-*/
 
 #ifdef _WIN32
 #include <windows.h>        // windows API header (required by gl.h)
